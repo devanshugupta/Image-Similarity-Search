@@ -98,3 +98,48 @@ value.
     – a probabilistic relevance feedback system 
 
     which enable the user to tag some of the results returned by 4b as and then return a new set of ranked results, relying on the feedback system selected by the user, either by revising the query or by re-ordering the existing results.
+
+  ## Results
+
+Results for Probabilistic Relevance feedback :
+
+Enter the query image id: 1
+Enter no. of images t: 10
+![sSbPeA9j76jAD4NyC0lDQnibLheU3CtJopW155ix0COCgLsGwjgOoQzz4lNQBiWyX_n9uKEpJeQwslfmdVsbGCeJt1ca-TL6wUWPM2AwHVaJLaxwbJpQ5JzByI_b53BSjqHJbwlMYbTzSq5PYJ5GbzA](https://github.com/devanshugupta/ImageSearch-CSE-515/assets/22978896/bd740bb1-debd-4821-9f79-8fafc68d167e)
+
+￼
+Feedback relevancy: 2 for Very relevant | 1 for relevant | -1 for irrelevant | -2 for very irrelevant | 0 to skip->
+![-5jnraTpA1C6BnIYTIa3F8_eUpJBT4XZUZkAQAzSxEtJg0RGA1FX5gHnYlroiSDgjqnvaTiVcDwd40Qj1kreqjNAggYCf1MkfUi6Mt92hmJOkMbk_uwZohIJUOT_gHWk8aAjch79uacnMYNmFHs7U64](https://github.com/devanshugupta/ImageSearch-CSE-515/assets/22978896/311b0215-eae4-4f4c-8269-bed7bbd687e9)
+
+￼
+Enter the relevancy of 384: 1
+Enter the relevancy of 36: 1
+Enter the relevancy of 218: 1
+Enter the relevancy of 6: 2
+Enter the relevancy of 432: 1
+Enter the relevancy of 430: 1
+Enter the relevancy of 28: 1
+Enter the relevancy of 400: -1
+Enter the relevancy of 404: -1
+Enter the relevancy of 350: -2
+![AWL10gMJq64WUDAIfBk_hkcG4tqxrH8wTHO8YaKZxlWZEHunGeaLWQR5gi1AlW2UGe5PHCiF4I-HYwlaw6tDzvO86M7i1g1tjwSw_wKqD9VDjA2lmH2cNb_jXCqpG513Xk5dYODrAqyQoeDUjdPObsg](https://github.com/devanshugupta/ImageSearch-CSE-515/assets/22978896/8459b9c4-1826-4d8f-9e91-dc10af0c3a31)
+
+￼
+Do you want to continue giving feedback[Y/N]y
+Enter the Number of images you want to view to give feedback:10
+Feedback relevancy: 2 for Very relevant | 1 for relevant | -1 for irrelevant | -2 for very irrelevant | 0 if no feedback for an image ->
+Enter the relevancy of 6: 2
+Enter the relevancy of 218: 1
+Enter the relevancy of 432: 1
+Enter the relevancy of 384: 1
+Enter the relevancy of 18: 2
+Enter the relevancy of 36: 1
+Enter the relevancy of 430: -1
+Enter the relevancy of 28: 1
+Enter the relevancy of 206: 1
+Enter the relevancy of 12: 2
+![xN4xFsk3MrBj7KdLd6TxH0GGIV-ZEYuz1OqqVjyRD7Xn2uG9MK6dn7wst5gsew6xEegjDsMwW39yRUJTq3dIF1fzaMREu1xSaiCaAGASngClYY--dHhNaCzvVqryZhVm6Hd3op0KtisrkBlA3gHKLXI](https://github.com/devanshugupta/ImageSearch-CSE-515/assets/22978896/c98131c0-bdfd-45d4-a229-81072bc92730)
+
+￼
+Do you want to continue giving feedback[Y/N]n
+Do you have another query?[Y/N]n
