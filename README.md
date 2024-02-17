@@ -1,5 +1,6 @@
 # How to run
 - The code is dependent so you will have to run all tasks sequentially to get the relevent data files.
+- Run feature extraction .ipynb file to get the features, it may take a long time to run.
 - Do make sure that the Caltech101 dataset 'download' parameter is set to True
 - Connect you google drive and upload the files in case you want to run code on Google Colab.
 - The path names for files may have to be changed as per your google drive.
