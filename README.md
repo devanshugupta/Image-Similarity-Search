@@ -1,4 +1,7 @@
-
+# How to run
+- The code is dependent so you will have to run all tasks sequentially to get the relevent data files.
+- Do make sure that the Caltech101 dataset 'download' parameter is set to True
+- Connect you google drive and upload the files in case you want to run code on Google Colab.
 
 # CSE515 Phase 3 
 > experimenting with clustering, indexing and relevance feedback
